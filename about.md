@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[dan.tofan@gmail.com](mailto:dan.tofan@gmail.com)
+[gnetsanet@gmail.com](mailto:gnetsanet@gmail.com)
